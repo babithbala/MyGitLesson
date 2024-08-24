@@ -1,3 +1,3 @@
-SampleDoc.txt
-im babith balarkan
-DevOps training
+Working with Directories
+As mentioned previously, at any given point in time in a command line window you are in one particular directory (the current directory). Assuming you haven’t changed any default settings, when you first open the command line application you will start off in the current user directory (your home folder), indicated by the tilde sign (~) in the command prompt.
+When you navigate to other directories in the command line, the command prompt will change to indicate the directory you are in. You can also use the pwd command, which stands for “print working directory,” to see the path to the current directory.
